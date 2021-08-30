@@ -2,7 +2,7 @@
 # Voice your opinion about this important issue
 
 Community dialogue circles on our changing community
-Free event
+* Free event
 Lunch will be served
 Let us know about your dietary preferences 
 Child care provided
