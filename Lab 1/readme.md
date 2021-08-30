@@ -3,9 +3,9 @@
 
 Community dialogue circles on our changing community
 * Free event
-Lunch will be served
-Let us know about your dietary preferences 
-Child care provided
+* Lunch will be served
+  * Let us know about your dietary preferences 
+* Child care provided
 
 Saturday November 5th, 2021
 from 9am-5pm
