@@ -17,7 +17,7 @@ ___
 123, Main St,
 Cleveland, OH 44123
 
-Contact **John** at **444-444-4444** or email aaa@google.com
+Contact **John** at **444-444-4444** or email **aaa@google.com**
 
 
 
