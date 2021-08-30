@@ -1,5 +1,5 @@
 
-Voice your opinion about this important issue
+# Voice your opinion about this important issue
 
 Community dialogue circles on our changing community
 Free event
