@@ -1,6 +1,6 @@
 
 # Executive summary
-  Today we will be talking about hardware, software, data, people and process. Every single one of these are important in IT. People is just as important as the software and vice versa. Next we will talk about what defines Client-Server and some examples of it including Github. Lastly, we will touch base on Cloud Computing and the impact it has made in our lives today. 
+..Today we will be talking about hardware, software, data, people and process. Every single one of these are important in IT. People is just as important as the software and vice versa. Next we will talk about what defines Client-Server and some examples of it including Github. Lastly, we will touch base on Cloud Computing and the impact it has made in our lives today. 
 
 # Information System Components  
 
