@@ -6,7 +6,7 @@
 
 * Take the example of ATM that we use everyday. Explain or identify what is the hardware, software, data, people and process in the system you identified with respect to the ATM.
 
-**Hardware** - the hardware is external part that you can see. On an ATM, it would be the screen, touchpad, card inserter, money dispenser, and much more.
+   **Hardware** - the hardware is external part that you can see. On an ATM, it would be the screen, touchpad, card inserter, money dispenser, and much more.  
 **Software** - is what tells the hardware what to do. there are two main categories of software : Operating Systems and Application Software. Mast majority of ATMs use Operating System. 
 **Data** - is collection of facts that is used to improve the organizations performance. Data in an ATM would be analyzing the card, pin, bank, and how much money is requested to dispense and a survey to measure the satisfaction of customers.
 **People** - people would be customers, owners, techs, programmers, of ATM. Without people, the tech is useless. You need users and creators.
