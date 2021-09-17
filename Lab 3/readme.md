@@ -1,7 +1,7 @@
 
 # Executive Summary
-Summarize this assignment and the goal of this lab
 
+ The purpose of this lab is to learn about hard drives: the two different types of drives and which one is more efficient for your needs. How RAM plays role in the speed of your computer. It tells you why the RAM makes a hige difference by comparing 32 bit vs 64 bit data paths. Also, how ALU and CU plays a role in CPU to take in an input and display an output. the lab talks about 4 things that happen under the hood for each computer: Input, Store, Process, and Output. Lastly, we learn how to convert decimal to binary or hexadecimal and vice versa. 
 # Hardware
 ## Hard Drives and Memory
 * What is the difference between latency and transfer rates in the performance of a hard drive?
@@ -39,4 +39,5 @@ Summarize this assignment and the goal of this lab
 
 
 # Conclusion
-Reflect on what you have learnt from this week
+
+ I have learned how RAM plays an important role in speed. Next time I'm buying a laptop, PC or anything with RAM. I will pay extra attention to it becauses speed is very importatnt to me. I learned how the computer takes in an input and follows instruction to create an output. I really enjoyed converting decimals to binary and hexadecimals. It's amazing how the computer sees everything in 0 and 1. 
