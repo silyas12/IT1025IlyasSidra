@@ -1,6 +1,8 @@
 # Executive Summary
 Summarize this assignment and the goal of this lab
 
+ The goal of this lab is to learn about ColorHexa.com which is a free color tool providing information about any color and generating matching color palettes for your designs. You will learn about different types of logic gates and how the output is either true or false depending on the input. Lastly, you will learn about IEEE and its purpose. 
+
 ## Hexadecimal color representation
 * Explain the representation: #ab00ff using the site: https://www.colorhexa.com/ 
 
@@ -21,5 +23,6 @@ AND gate is opposite the output of AND gate is true only when all inputs are tru
 ## IEEE - Ethically Aligned Design
 * Explain the purpose of IEEE and the importance of ethics in device design
 
+ IEEE stands for Institute of Electrical and Electronics Engineers. It is designed to serve professionals involved in all aspects of the electrical, electronic, and computing fields and related areas of science and technology that underlie modern civilization. Ethics in information technology is important because it creates a culture of trust, responsibility, integrity and excellence in the use of resources. Ethics also promotes privacy, confidentiality of information and unauthorized access to computer networks, helping to prevent conflict and dishonesty.
 # Conclusion
-Explain what you learnt from this lab
+All of this information was super new to me. I enjoyed learning about logic gates and circuits and enjoyed the excercises. The hexa color website is very neat too, I know it will definitely come handy later. It was good to know what IEEE is since I'm sure lots of work places uses this. I will need to know this for job and just as a programmer in general. 
