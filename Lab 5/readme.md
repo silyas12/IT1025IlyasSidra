@@ -9,9 +9,9 @@
   
    The Application Software performs specific tasks such as word processing, accounting, data base management, video games or browsing the web. Example. Pandora or Office Excel. 
    
-    The ERP software is an organization used to manage day to day business activities such as accounting, procurement, project management, risk management, compliance and supply chain operators. Example: Amazon.
 * Explain the purpose of ERP software and provide an example. 
 
+ The ERP software is an organization used to manage day to day business activities such as accounting, procurement, project management, risk management, compliance and supply chain operators. Example: Amazon.
 
 # Virtualization
 
