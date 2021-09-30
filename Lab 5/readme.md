@@ -36,6 +36,8 @@ and explain the purpose of virtualization.
  
 * In your own words explain the difference between cloud computing and virtualization  
 
+ While Virtualization is a technology , cloud computing is an environment. It's an application based software infrastructure that stores data on remote server which can be accessed through the internet. User can access data stored in the Cloud using an internet browser or cloud computing software. 
 * Explain how a network administrator could move from virtualization to cloud computing? 
  
+  Admin would have to create a cloud by pooling virtual resources together, orchestrating them using management and automation software, and creating a self-service portal for users. 
 # Conclusion
