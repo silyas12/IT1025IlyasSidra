@@ -1,5 +1,6 @@
 # Executive Summary
 
+  In this lab, we will cover types of software and an example for better understanding. Examples are something we use everyday or most have heard of. The difference between virtualization and cloud computing. The benefits of both and how they are used by companies. Lastly, how could one make switch from virtualization to cloud computing if an admin wanted to . 
 # Software 
 * Explain the roles of application, utility and operating system software. Give an example of each. 
 
@@ -11,7 +12,7 @@
    
 * Explain the purpose of ERP software and provide an example. 
 
- The ERP software is an organization used to manage day to day business activities such as accounting, procurement, project management, risk management, compliance and supply chain operators. Example: Amazon.
+   The ERP software is an organization used to manage day to day business activities such as accounting, procurement, project management, risk management, compliance and supply chain operators. Example: Amazon.
 
 # Virtualization
 
@@ -41,3 +42,5 @@ and explain the purpose of virtualization.
  
   Admin would have to create a cloud by pooling virtual resources together, orchestrating them using management and automation software, and creating a self-service portal for users. 
 # Conclusion
+
+   I didn't know anything about virtualization before the lab so it was a lot of new information for me. I did know a little about cloud computing and types of software from previous lessons. I didn't realize how important virtualization is and almost used by lots of companies and IT techs. It's very efficient in combining multiple servers or desktops or any other tech to a single source to use it efficiently. You can program multiple computers at once using one computer with help of virtulization. While cloud computing is better for saving data to be able to access through your browser from anywhere. It will always stay safe and be accessible as long as you have internet . 
