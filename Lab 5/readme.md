@@ -21,9 +21,15 @@ https://www.redhat.com/en/topics/virtualization/what-is-virtualization
 * In addition to the chapter use the following resource:  https://www.vmware.com/solutions/virtualization.html#how-it-works
 and explain the purpose of virtualization. 
 
+  Virtualization ceates a software-based—or virtual—representation of applications, servers, storage and networks to reduce IT expenses while boosting efficiency and agility.
 #### Explain the following: 
 * What types of problems are solved with virtualization? 
+
+ It can solve lots of problems through different types of virtualization. With Data virtualization, the data that is spread all over can be consolidated into a single source. With Desktop virtualization, Admin can deploy simulated desktops environments to hundreds of physical machine at once. With Server virtualizations, you can get server to do more specific functions and involves partitioning it so that components can be used to serve multiple functions. Operating System virtualization is used to run Linux an Windows side by side. Lastly, with network functions virtualization, you can reduce numbers of physical components needed to create multiple independent networks. 
+ 
 * What role does hypervisor play in virtualization? 
+
+ A hypervisor is a form of virtualization software used in cloud hosting to divide and allocate the resources on various pieces of hardware. It allows multiple guest operating systems (GOS) to run on a single host system at the same time. 
 
 #### Cloud computing vs. Virtualization: 
     https://www.redhat.com/en/topics/cloud-computing/cloud-vs-virtualization  
