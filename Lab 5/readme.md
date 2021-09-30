@@ -25,18 +25,18 @@ and explain the purpose of virtualization.
 #### Explain the following: 
 * What types of problems are solved with virtualization? 
 
- It can solve lots of problems through different types of virtualization. With Data virtualization, the data that is spread all over can be consolidated into a single source. With Desktop virtualization, Admin can deploy simulated desktops environments to hundreds of physical machine at once. With Server virtualizations, you can get server to do more specific functions and involves partitioning it so that components can be used to serve multiple functions. Operating System virtualization is used to run Linux an Windows side by side. Lastly, with network functions virtualization, you can reduce numbers of physical components needed to create multiple independent networks. 
+   It can solve lots of problems through different types of virtualization. With Data virtualization, the data that is spread all over can be consolidated into a single source. With Desktop virtualization, Admin can deploy simulated desktops environments to hundreds of physical machine at once. With Server virtualizations, you can get server to do more specific functions and involves partitioning it so that components can be used to serve multiple functions. Operating System virtualization is used to run Linux an Windows side by side. Lastly, with network functions virtualization, you can reduce numbers of physical components needed to create multiple independent networks. 
  
 * What role does hypervisor play in virtualization? 
 
- A hypervisor is a form of virtualization software used in cloud hosting to divide and allocate the resources on various pieces of hardware. It allows multiple guest operating systems (GOS) to run on a single host system at the same time. 
+   A hypervisor is a form of virtualization software used in cloud hosting to divide and allocate the resources on various pieces of hardware. It allows multiple guest operating systems (GOS) to run on a single host system at the same time. 
 
 #### Cloud computing vs. Virtualization: 
     https://www.redhat.com/en/topics/cloud-computing/cloud-vs-virtualization  
  
 * In your own words explain the difference between cloud computing and virtualization  
 
- While Virtualization is a technology , cloud computing is an environment. It's an application based software infrastructure that stores data on remote server which can be accessed through the internet. User can access data stored in the Cloud using an internet browser or cloud computing software. 
+   While Virtualization is a technology , cloud computing is an environment. It's an application based software infrastructure that stores data on remote server which can be accessed through the internet. User can access data stored in the Cloud using an internet browser or cloud computing software. 
 * Explain how a network administrator could move from virtualization to cloud computing? 
  
   Admin would have to create a cloud by pooling virtual resources together, orchestrating them using management and automation software, and creating a self-service portal for users. 
