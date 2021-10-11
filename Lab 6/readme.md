@@ -3,23 +3,24 @@
 # Career Exploration
 ## Career Exploration
 
+  In this lab, you will explore the jobs available in IT field, their pay, the outlook in the future. Next, start thinking about your future by exploring the programs offered by TRI-C that best fits you. There are lots of options available for everyone. Then, look into what some most common certificates in IT are and how they would help you. Lastly, it's important to know what kind of organizations are there for you. I will talk about ACM-W becaue that peaked my interest. 
 #### Tri-C College Central: 
-* Register for a student account.
-* Use one of the search options such as "Search - Intern Central," take a screenshot of the listings (include your name in the upper right-hand corner in your screenshot,)  name the file: CollegeCentral and upload to your lab folder. 
+done
 
 #### Bureau of Labor Statistics
-* Go to: Bureau of Labor Statistics website and continue exploring careers in IT (or your area of interest.) You can search for "web developer" or "network" or "cyber" and see what jobs appear.
-Report your findings including job title, salary and projected growth. You can upload a screenshot if you want.
+
+   a Software Developer with a bachelor degree you can make $110140 a year with job outlook of 22% which is much faster than average according to the website. 
 
 ## Industry Certification
-* Explore a certification and report your findings. (CompTIA , Cisco , CISSP or any other certification)
-
+  
+  I chose to look into Cisco Certified Network Professional (CCNP) Certifications. This certificate test to check your knowledge and skills required to install, configure, and troubleshoot converged local-and-wide area networks with 100 to 500 or more end devices. To get a CCNP certification, one needs to obtain a CCNA certification.
 ## College Certificates
-* Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.)
-* Explain what you need to do to become co-op "ready" and the benefits of pursuing a co-op or internship
+
+   I’m currently trying to pursue the post-graduate certification in Information Technology, Programming and Development. It consists of 9 classes or 32 credit hours. It can be completed in 3 semesters with 3 classes each. This program is designed to update or enhance skills in object-oriented technologies. Students will experience the object-oriented environment of programming, database and Web technologies. This certification is my starting point and then I plan on to teach myself and practice web development for a year. I chose this because I already hold a bachelor degree and wanted a career change but without breaking the bank.
 
 ## Professional Membership
-* Pick one of the IT organizations like IEEE or ACM or a student club and report the purpose of the organization and why membership would be beneficial.
 
+   As a women,  I would like to join ACM-W that supports, celebrate and advocates women in computing. It advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women. We need more organizations like these that would support women in IT.
 # Conclusion
-Summary of your understanding from this week's lab
+
+   I learned how many different job titles are available in IT field and the salary and job outlook is pretty good. I kinda knew this that's why I'm trying to change my field but it was still assuring. I didn't know much about the certificates since I'm more on the programming route. I was very happy to learn there's an organization looking out and supporting women in IT.
