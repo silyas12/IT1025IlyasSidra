@@ -24,3 +24,6 @@ done
 # Conclusion
 
    I learned how many different job titles are available in IT field and the salary and job outlook is pretty good. I kinda knew this that's why I'm trying to change my field but it was still assuring. I didn't know much about the certificates since I'm more on the programming route. I was very happy to learn there's an organization looking out and supporting women in IT.
+   
+   ![college central_ilyas sidra](https://user-images.githubusercontent.com/89600138/136832343-28ad17bd-0b88-4aa6-aefe-a5d5223e00c7.PNG)
+
