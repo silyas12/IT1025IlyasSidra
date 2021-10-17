@@ -1,6 +1,5 @@
 # Executive Summary
-Update this section for this lab explaining the purpose of the lab
-
+You will learn about how to make a logo, thumbnail, how to use a command prompt, and difference between lossless vs Lossy compressions. Lastly, the differences between the different types of file formats. 
 # Graphics
 ## Raster vs. Vector Graphics
 * Explain the difference between a raster and vector image.  
@@ -38,7 +37,8 @@ Upload screenshots for Operating System tasks to github
 Upload thumbnail to github (In class work)
  
 # Conclusion
-Summarize what you learned here
+
+ It was very fun to create a logo and thumbnail. I enjoyed making that and might explore them later. I didn't know anything about command prompt so everything was new to me. But it was interesting to learn. Lot of new information overall this week. 
 ![Mac and Cheese](https://user-images.githubusercontent.com/89600138/137605097-e0944a6e-f8cb-4c37-b01e-150a2f764acc.jpg)
 ![DirectoryStructureCommandPrompt](https://user-images.githubusercontent.com/89600138/137605098-282b230e-8b65-4d65-8b88-0093892c41d6.PNG)![CMDOutput](https://user-images.githubusercontent.com/89600138/137605103-8251c4bc-1b66-47ef-8894-b45c74211b4a.PNG)
 
