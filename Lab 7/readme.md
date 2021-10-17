@@ -4,13 +4,22 @@ Update this section for this lab explaining the purpose of the lab
 # Graphics
 ## Raster vs. Vector Graphics
 * Explain the difference between a raster and vector image.  
+
+  Vector graphics are digital art that is rendered by a computer using a mathematical formula. Raster images are made up of tiny pixels, making them resolution dependent and best used for creating photos.
 * Include examples of when each would be most appropriate 
+
+   If you scale a vector image, it will maintain a smooth, un-pixelated appearance, whereas a raster image will become pixelated. Raster is best for taking photos. 
+
 
 ## Lossless vs. Lossy Compression
 * Why does it matter to developers whether they use lossless or lossy image formats?  
 
+  Lossy compression refers to compression in which some of the data from the original file (JPEG) is lost. The process is irreversible, once you convert to lossy, you can't go back. And the more you compress it, the more degradation occurs. JPEGs and GIFs are both lossy image formats. One of the biggest obvious benefits to using lossy compression is that it results in a significantly reduced file size (smaller than lossless compression method), but it also means there is quality loss. Lossless compression refers to compression in which the image is reduced without any quality loss. Usually this is done by removing unnecessary metadata from JPEG and PNG files. RAW, BMP, GIF, and PNG are all lossless image formats. 
+
 ## File Formats
 * Explain the similarities and differences between jpg, gif and png files. 
+
+ GIF is an image file format developed in 1987, using the LZW compression algorithm. JPEG uses a different compression formula; by averaging color variation and discarding information not accessible to the human eye, it can greatly reduce the file size of some image types. PNG is mostly superior to GIF, as it is newer, supports more colors, and is free of patent restrictions. PNG cannot be used for animation, but offers highly sophisticated transparency and color support, among other features. In most cases where animation is not required, it is best to use PNG instead of GIF.
 
 # Operating Systems
 Upload screenshots for Operating System tasks to github
