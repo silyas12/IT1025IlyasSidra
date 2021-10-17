@@ -32,8 +32,7 @@ Upload thumbnail to github (In class work)
 Summarize what you learned here
 ![Mac and Cheese](https://user-images.githubusercontent.com/89600138/137605097-e0944a6e-f8cb-4c37-b01e-150a2f764acc.jpg)
 ![DirectoryStructureCommandPrompt](https://user-images.githubusercontent.com/89600138/137605098-282b230e-8b65-4d65-8b88-0093892c41d6.PNG)![CMDOutput](https://user-images.githubusercontent.com/89600138/137605103-8251c4bc-1b66-47ef-8894-b45c74211b4a.PNG)
-![DirectoryStructureCommandPrompt](https://user-images.githubusercontent.com/89600138/137605104-0ffe8997-9e20-498b-864a-2f9153aa0a96.PNG)
-![SVGGraphic](![SVGGraphic](https://user-images.githubusercontent.com/89600138/137605109-e17fb829-ebd2-4843-9198-269761c02550.png)
+
 https://user-images.githubusercontent.com/89600138/137605105-b9572ce9-0f01-49ff-8abc-510adec8b482.png)
 
 ![SVGGraphic](https://user-images.githubusercontent.com/89600138/137605099-ecf82a83-eb22-433e-8c15-f43f2178b021.png)
