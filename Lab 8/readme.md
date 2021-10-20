@@ -49,3 +49,5 @@ Definitions to match:
 
 # Conclusion
 Summarize how this lab was useful to you and what you learnt that really interested you!
+
+![Decisionflowchart](https://user-images.githubusercontent.com/89600138/138139630-09bb92eb-ce5f-45d4-b363-c91fe4a2ce8e.jpg)
