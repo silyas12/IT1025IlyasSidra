@@ -6,6 +6,10 @@ Cybersecurity and Encryption
 
 * Imagine you are part of the Amazon.com online chat. Explain how each component of the security triad would impact your job
 
+ Confidentiality – Keeping sensitive information private. Encryption services can protect your data at rest or in transit and prevent unauthorized access to protected data.
+Integrity – is the consistency of data, networks, and systems. This includes mitigation and proactive measures to restrict unapproved changes, while also having the ability to recover data that has been lost or compromised.
+Availability – refers to authorized users that can freely access the systems, networks, and data needed to perform their daily tasks. Resolving hardware and software conflicts, along with regular maintenance is crucial to keep systems up and available.
+As an amazon worker, I would have to make sure I maintain the integrity by making sure all data is consistent. I will make sure that users have availabilty to the website and all the other resources associated with the amazon. Lastly, I will maintain confidentiality by keeping things private and making sure customers and employess only have access to what they are allowed to. 
  
 * Identify three daily tasks that require authentication. Explain how each one could be converted to multi-factor authentication
 
