@@ -1,13 +1,29 @@
 # Executive Summary
-Explain the goal for this lab
 
-# Cybersecurity and Encryption
+ You will learn about Cybersecurity and Encryption. What ACL and RBAC is and the pros and cons of each. You will learn to do some cryptography. 
+
+Cybersecurity and Encryption
 
 * Imagine you are part of the Amazon.com online chat. Explain how each component of the security triad would impact your job
+
+ 
 * Identify three daily tasks that require authentication. Explain how each one could be converted to multi-factor authentication
+
+  Type 1 – Something You Know – includes passwords, PINs, combinations, code words, or secret handshakes.
+  Type 2 – Something You Have – includes all items that are physical objects, such as keys, smart phones, smart cards, USB drives, and token devices.
+  Type 3 – Something You Are – includes any part of the human body that can be offered for verification, such as fingerprints, palm scanning, facial recognition, retina scans, iris scans, and voice verification.
+  By combining two or three factors from these three categories, a multi-factor authentication is crafted. Multi-factor authentication is preferred, as it is much more difficult for an intruder to overcome. With just a password, an attacker only has to have a single attack skill and wage a single successful attack to impersonate the victim. With multi-factor authentication, the attack must have multiple attack skills and wage multiple successful attacks simultaneously in order to impersonate the victim. This is extremely difficult and, thus, a more resilient logon solution.
+  
 * Explain ACL and RBAC. What are the advantages and disadvantages of each?
+
+    ACL is better suited for implementing security at the individual user level and for low-level data, while RBAC better serves a company-wide security system with an overseeing administrator. An ACL can, for example, grant write access to a specific file, but it cannot determine how a user might change the file.
+    
 * Explain the interaction of ciphertext, a public key and a private key
+
+  In Private key, the same key (secret key) is used for encryption and decryption. In this key is symmetric because the only key is copy or share by another party to decrypt the cipher text. It is faster than the public key cryptography. In Public key, two keys are used one key is used for encryption and another key is used for decryption. One key (public key) is used for encrypt the plain text to convert it into cipher text and another key (private key) is used by receiver to decrypt the cipher text to read the message.  
 * Explain why we need public key cryptography.
+
+  Public key cryptography remains the most secure protocol (over private key cryptography) because users never need to transmit or reveal their private keys to anyone, which lessens the chances of cyber criminals discovering an individual's secret key during the transmission
 
 ## Cryptography
 * Type a message in the "Caesar Cipher Exploration box and turn the wheel to encrypt your message.
@@ -27,6 +43,9 @@ Explain the result.
 
 ## Brute Force
 * What is Brute-Force and how does it relate to Kerckhoffs's principle?
-
+  
+   Brute force attacks are simple and reliable. Attackers let a computer do the work – trying different combinations of usernames and passwords, for example – until they find one that works. Kerckhoffs' Principle states that the security of a cryptosystem must lie in the choice of its keys only; everything else (including the algorithm itself) should be considered public knowledge.
 # Conclusion
 Summarize how this lab was useful to you and what you learnt that really interested you!
+ 
+   I learned about encription and how it's used to keep data secure. I learned about brute force, cybersecurity and lot more.
