@@ -28,7 +28,12 @@ The client-server model, or client-server architecture, is a distributed applica
 #### Review the second article and answer these questions:
 Review the section of the article aligning the post office with protocol stacks.  
 * Why are layers important to changing technology? 
+
+  Each level of the stack performs a particular function and communicates with the levels above and below it.
+This layered arrangement is not confined to networking, and how it works is probably best understood if you compare it to real life example.
 * What types of applications run on the "application" layer?
+
+   A few examples of application layer protocols are the Hypertext Transfer Protocol (HTTP), File Transfer Protocol (FTP), Post Office Protocol (POP), Simple Mail Transfer Protocol (SMTP), and Domain Name System (DNS).  
 
 # Internet Security
 #### Watch the video and answer these questions:
@@ -41,7 +46,12 @@ Hypertext transfer protocol secure (HTTPS) is the secure version of HTTP, which 
 
 #### Review the following article: Securing Your Web Browser 
 * Why should you secure your browser? 
+
+  Not securing your web browser can lead quickly to a variety of computer problems caused by anything from spyware being installed without your knowledge to intruders taking control of your computer.
 * Explain one of the risks described in the article. 
+
+  Cookies can be used to uniquely identify visitors of a website, which some people consider a violation of privacy. If a website uses cookies for authentication, then an attacker may be able to acquire unauthorized access to that site by obtaining the cookie. Persistent cookies pose a higher risk than session cookies because they remain on the computer longer.
  
 # Conclusion
 Include your conclusion here...
+  I learned about how important it is to secure your browser. It was interesting to know what cookies because I have seen them but I wasn't actually sure what it was. I also learned the difference between HTTP and HTTPs. 
