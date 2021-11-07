@@ -55,3 +55,6 @@ Hypertext transfer protocol secure (HTTPS) is the secure version of HTTP, which 
 # Conclusion
 Include your conclusion here...
   I learned about how important it is to secure your browser. It was interesting to know what cookies because I have seen them but I wasn't actually sure what it was. I also learned the difference between HTTP and HTTPs. 
+  ![ip](https://user-images.githubusercontent.com/89600138/140628843-efede290-19f0-4b6c-b319-bae5c9cba1f7.PNG)
+
+  
