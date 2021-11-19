@@ -28,6 +28,7 @@ I don't know what you mean
    XML mainly focuses on transfer of data while HTML is focused on presentation of the data. XML is content driven whereas HTML is format driven. XML is Case sensitive while HTML is Case insensitive.
 
 * What is the advantage of JSON over XML?
+![wk12 concepts](https://user-images.githubusercontent.com/89600138/142659915-4f8ec6bc-937c-4900-9d6e-1ba94ba701b0.PNG)
 
    JSON has a more compact style than XML, and it is often more readable. The lightweight approach of JSON can make significant improvements in RESTful APIs working with complex systems. Faster: The XML software parsing process can take a long time.
 
@@ -35,5 +36,3 @@ I don't know what you mean
 
 I learned the basics of programming which was very fun. I coded a little and enjoyed that the most. I definetly want to pursue programming.
 
-![wk12 concepts](https://user-images.githubuserc[wk12 json concepts class.docx](https://github.com/silyas12/IT1025IlyasSidra/files/7571646/wk12.json.concepts.class.docx)
-ontent.com/89600138/142659830-cce45e9d-b736-43f4-84e1-82a359f5830f.PNG)
