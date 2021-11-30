@@ -54,7 +54,8 @@ Or in the plain term, RDBMS is a book and SQL is the language being used in the 
 a) which is the primary key?
 
  Customer ID is the primary key.
-b) which is the foreign key?
+ 
+ b) which is the foreign key?
 
   Order Id.
   
